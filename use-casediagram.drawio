@@ -37,7 +37,7 @@
         <mxCell id="LbGkmwVccaObO6Hwc_Lx-6" value="laporan statistik" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="355" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbGkmwVccaObO6Hwc_Lx-7" value="detail nuku" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LbGkmwVccaObO6Hwc_Lx-7" value="detail buku" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="255" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LbGkmwVccaObO6Hwc_Lx-8" value="pencarian buku" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
